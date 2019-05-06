@@ -1,7 +1,7 @@
 ## Library Management
 
-Practice[HFrappe 
+Learning [Frappe](https://frappe.io) practice app 
 
 #### License
 
-MIT# library_management
+GPL 3.0
