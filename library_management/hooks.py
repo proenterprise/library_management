@@ -42,6 +42,10 @@ app_license = "MIT"
 #	"Role": "home_page"
 # }
 
+role_home_page = {
+    "Library Member": "article"
+}
+
 # Website user home page (by function)
 # get_website_user_home_page = "library_management.utils.get_home_page"
 
